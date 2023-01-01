@@ -1,0 +1,18 @@
+{
+    "name": "srdev93/validation",
+    "description": "personal validation package",
+    "autoload": {
+        "psr-4": {
+            "Srdev93\\Validation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sajad rahmani",
+            "email": "sst.sajad.e@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
